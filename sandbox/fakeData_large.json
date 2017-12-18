@@ -1,0 +1,502 @@
+[
+   {
+      "orgName": "186",
+      "contact_name": "Brian Griffin",
+      "email": "brian@186.com",
+      "city": "Limerick",
+      "lat": 52.72775277327149,
+      "lng": -8.502882342528624,
+      "jurisdiction": "Both",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "DE7",
+      "contact_name": "Renee Longhini",
+      "email": "renee@de7.com",
+      "city": "Waterford",
+      "lat": 52.26427174710196,
+      "lng": -7.096196450293432,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "7VW",
+      "contact_name": "Jackson Neely",
+      "email": "jackson@7vw.com",
+      "city": "Waterford",
+      "lat": 52.210941996949565,
+      "lng": -7.1122012131493415,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "GQE",
+      "contact_name": "Walter Fox",
+      "email": "walter@gqe.com",
+      "city": "Lisburn",
+      "lat": 54.597636569456654,
+      "lng": -6.136337442785695,
+      "jurisdiction": "Both",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "8N1",
+      "contact_name": "Katherine Morelli",
+      "email": "katherine@8n1.com",
+      "city": "Waterford",
+      "lat": 52.23643648282852,
+      "lng": -7.021877544001735,
+      "jurisdiction": "Both",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "FS3",
+      "contact_name": "Robert Andrews",
+      "email": "robert@fs3.com",
+      "city": "Galway",
+      "lat": 53.30978111706043,
+      "lng": -9.185447757651035,
+      "jurisdiction": "Both",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "886",
+      "contact_name": "Randy Phelps",
+      "email": "randy@886.com",
+      "city": "Belfast",
+      "lat": 54.71421822971998,
+      "lng": -5.939868426302619,
+      "jurisdiction": "Northern Ireland",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "W2K",
+      "contact_name": "Georgette Hyatt",
+      "email": "georgette@w2k.com",
+      "city": "Limerick",
+      "lat": 52.64561266559511,
+      "lng": -8.50080717916132,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "DX5",
+      "contact_name": "William Kim",
+      "email": "william@dx5.com",
+      "city": "Galway",
+      "lat": 53.20120064884646,
+      "lng": -9.010665732839438,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "WCP",
+      "contact_name": "Terrance Seymour",
+      "email": "terrance@wcp.com",
+      "city": "Belfast",
+      "lat": 54.680617386629294,
+      "lng": -5.870624575598326,
+      "jurisdiction": "Northern Ireland",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "5O0",
+      "contact_name": "Albert Mclaren",
+      "email": "albert@5o0.com",
+      "city": "Galway",
+      "lat": 53.17583291957481,
+      "lng": -8.940659328536947,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "MP0",
+      "contact_name": "Hans Leith",
+      "email": "hans@mp0.com",
+      "city": "Waterford",
+      "lat": 52.20294749677681,
+      "lng": -7.092701263821795,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "8SI",
+      "contact_name": "Steven Butler",
+      "email": "steven@8si.com",
+      "city": "Derry",
+      "lat": 54.89824345855924,
+      "lng": -7.246324179427531,
+      "jurisdiction": "Northern Ireland",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "LZD",
+      "contact_name": "Paul Schatz",
+      "email": "paul@lzd.com",
+      "city": "Cork",
+      "lat": 51.76638860955948,
+      "lng": -8.637953937111178,
+      "jurisdiction": "Both",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "FXC",
+      "contact_name": "Darnell Chan",
+      "email": "darnell@fxc.com",
+      "city": "Waterford",
+      "lat": 52.20619779197825,
+      "lng": -7.286385413194674,
+      "jurisdiction": "Both",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "J56",
+      "contact_name": "Billie Turner",
+      "email": "billie@j56.com",
+      "city": "Galway",
+      "lat": 53.198813857486996,
+      "lng": -9.166822767886202,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "7LZ",
+      "contact_name": "Marie Peacock",
+      "email": "marie@7lz.com",
+      "city": "Dublin",
+      "lat": 53.48105001904145,
+      "lng": -6.257967134176427,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "7XU",
+      "contact_name": "Francis Little",
+      "email": "francis@7xu.com",
+      "city": "Galway",
+      "lat": 53.30605081780819,
+      "lng": -9.10313451159668,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "14X",
+      "contact_name": "Spencer Brennan",
+      "email": "spencer@14x.com",
+      "city": "Cork",
+      "lat": 51.981197674157364,
+      "lng": -8.600355951001283,
+      "jurisdiction": "Both",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "IL7",
+      "contact_name": "Martin Randolph",
+      "email": "martin@il7.com",
+      "city": "Belfast",
+      "lat": 54.5752292825775,
+      "lng": -6.072620366876144,
+      "jurisdiction": "Northern Ireland",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "H4V",
+      "contact_name": "Leah Williams",
+      "email": "leah@h4v.com",
+      "city": "Belfast",
+      "lat": 54.672344307891905,
+      "lng": -5.788670911058505,
+      "jurisdiction": "Northern Ireland",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "QKX",
+      "contact_name": "Charlotte Ramos",
+      "email": "charlotte@qkx.com",
+      "city": "Galway",
+      "lat": 53.37840137740666,
+      "lng": -9.021529785114053,
+      "jurisdiction": "Both",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "XAE",
+      "contact_name": "Karen Santos",
+      "email": "karen@xae.com",
+      "city": "Lisburn",
+      "lat": 54.575641837109934,
+      "lng": -6.079808196295854,
+      "jurisdiction": "Both",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "J2E",
+      "contact_name": "Eric Wright",
+      "email": "eric@j2e.com",
+      "city": "Limerick",
+      "lat": 52.73682716003587,
+      "lng": -8.49915858803831,
+      "jurisdiction": "Both",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "4GF",
+      "contact_name": "Lisa Thorne",
+      "email": "lisa@4gf.com",
+      "city": "Belfast",
+      "lat": 54.68078884762375,
+      "lng": -5.977287664933884,
+      "jurisdiction": "Both",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "IIU",
+      "contact_name": "Jo Smith",
+      "email": "jo@iiu.com",
+      "city": "Galway",
+      "lat": 53.39014238153838,
+      "lng": -9.067486437135557,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "EKA",
+      "contact_name": "Beatrice Hattub",
+      "email": "beatrice@eka.com",
+      "city": "Dublin",
+      "lat": 53.41429137077186,
+      "lng": -6.1119091508222345,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "D9Y",
+      "contact_name": "Edward Ledford",
+      "email": "edward@d9y.com",
+      "city": "Waterford",
+      "lat": 52.183879615761064,
+      "lng": -7.0947271456488386,
+      "jurisdiction": "Both",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "4I7",
+      "contact_name": "Jeremy Geisler",
+      "email": "jeremy@4i7.com",
+      "city": "Cork",
+      "lat": 51.8193572080283,
+      "lng": -8.629873873290023,
+      "jurisdiction": "Both",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "U4Q",
+      "contact_name": "Gina Davidson",
+      "email": "gina@u4q.com",
+      "city": "Galway",
+      "lat": 53.34487213557883,
+      "lng": -9.001990140461539,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "YB6",
+      "contact_name": "James Hodges",
+      "email": "james@yb6.com",
+      "city": "Waterford",
+      "lat": 52.39064477078628,
+      "lng": -7.258269734369547,
+      "jurisdiction": "Both",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "729",
+      "contact_name": "Mable Garcia",
+      "email": "mable@729.com",
+      "city": "Galway",
+      "lat": 53.404312807047795,
+      "lng": -8.985537890585393,
+      "jurisdiction": "Both",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "EOF",
+      "contact_name": "Victor Sarver",
+      "email": "victor@eof.com",
+      "city": "Galway",
+      "lat": 53.39299701364531,
+      "lng": -9.116551336838755,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "NBV",
+      "contact_name": "Anne Lin",
+      "email": "anne@nbv.com",
+      "city": "Galway",
+      "lat": 53.148536037682604,
+      "lng": -9.06901696588768,
+      "jurisdiction": "Both",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "EMM",
+      "contact_name": "Mark Diaz",
+      "email": "mark@emm.com",
+      "city": "Belfast",
+      "lat": 54.49213330726191,
+      "lng": -5.927210316250445,
+      "jurisdiction": "Northern Ireland",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "WUU",
+      "contact_name": "Evelyn Reifsteck",
+      "email": "evelyn@wuu.com",
+      "city": "Dublin",
+      "lat": 53.48349590991638,
+      "lng": -6.212039999194385,
+      "jurisdiction": "Both",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "NGN",
+      "contact_name": "Tony Burchill",
+      "email": "tony@ngn.com",
+      "city": "Lisburn",
+      "lat": 54.571168089138034,
+      "lng": -6.119431271450197,
+      "jurisdiction": "Both",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "8KG",
+      "contact_name": "Matthew Rios",
+      "email": "matthew@8kg.com",
+      "city": "Dublin",
+      "lat": 53.31157849320158,
+      "lng": -6.330981983228279,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Philanthropy"
+   },
+   {
+      "orgName": "82L",
+      "contact_name": "Paula Gregor",
+      "email": "paula@82l.com",
+      "city": "Lisburn",
+      "lat": 54.645275154988475,
+      "lng": -6.094393378852092,
+      "jurisdiction": "Both",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "PAH",
+      "contact_name": "Roger Carter",
+      "email": "roger@pah.com",
+      "city": "Galway",
+      "lat": 53.29949840840578,
+      "lng": -9.162421473942505,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "FCD",
+      "contact_name": "Roberto Metcalf",
+      "email": "roberto@fcd.com",
+      "city": "Waterford",
+      "lat": 52.16529514060088,
+      "lng": -7.142660584572993,
+      "jurisdiction": "Both",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "6J1",
+      "contact_name": "Laura Alston",
+      "email": "laura@6j1.com",
+      "city": "Lisburn",
+      "lat": 54.610509783427396,
+      "lng": -5.946349660168007,
+      "jurisdiction": "Northern Ireland",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "O63",
+      "contact_name": "Thomas Mancil",
+      "email": "thomas@o63.com",
+      "city": "Galway",
+      "lat": 53.27973573193568,
+      "lng": -9.229844578596099,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "ZUF",
+      "contact_name": "David Ramirez",
+      "email": "david@zuf.com",
+      "city": "Derry",
+      "lat": 55.06508253338896,
+      "lng": -7.186847615223488,
+      "jurisdiction": "Both",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "0Y4",
+      "contact_name": "Dale Gomez",
+      "email": "dale@0y4.com",
+      "city": "Belfast",
+      "lat": 54.53484914015232,
+      "lng": -5.7867265317556615,
+      "jurisdiction": "Northern Ireland",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "K6U",
+      "contact_name": "Beatrice Lyerly",
+      "email": "beatrice@k6u.com",
+      "city": "Limerick",
+      "lat": 52.65308570509012,
+      "lng": -8.615588951488522,
+      "jurisdiction": "Both",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "WSI",
+      "contact_name": "Agnes Lawrence",
+      "email": "agnes@wsi.com",
+      "city": "Lisburn",
+      "lat": 54.48851016521039,
+      "lng": -5.905225393542596,
+      "jurisdiction": "Northern Ireland",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "BDZ",
+      "contact_name": "David Hogue",
+      "email": "david@bdz.com",
+      "city": "Limerick",
+      "lat": 52.66105507313294,
+      "lng": -8.755662869395923,
+      "jurisdiction": "Both",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "6M1",
+      "contact_name": "Mary Prentiss",
+      "email": "mary@6m1.com",
+      "city": "Dublin",
+      "lat": 53.461743223209396,
+      "lng": -6.344244744123434,
+      "jurisdiction": "Both",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "95R",
+      "contact_name": "Brian Fogg",
+      "email": "brian@95r.com",
+      "city": "Waterford",
+      "lat": 52.30456248266178,
+      "lng": -7.099431162666899,
+      "jurisdiction": "Republic of Ireland",
+      "fundingSource": "EU"
+   }
+]

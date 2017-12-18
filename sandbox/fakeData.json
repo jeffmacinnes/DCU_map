@@ -1,0 +1,42 @@
+[
+   {
+      "orgName": "20M",
+      "contact_name": "Diego Seit",
+      "email": "diego@20m.com",
+      "city": "Derry",
+      "lat": 55.054481211218416,
+      "lng": -7.447467513799524,
+      "jurisdiction": "Both",
+      "fundingSource": "EU"
+   },
+   {
+      "orgName": "11X",
+      "contact_name": "Donna Bowe",
+      "email": "donna@11x.com",
+      "city": "Galway",
+      "lat": 53.40423858418576,
+      "lng": -8.952459021459704,
+      "jurisdiction": "Both",
+      "fundingSource": "Government"
+   },
+   {
+      "orgName": "Q93",
+      "contact_name": "Tracy Hawkins",
+      "email": "tracy@q93.com",
+      "city": "Belfast",
+      "lat": 54.68053038029248,
+      "lng": -5.917887855533105,
+      "jurisdiction": "Both",
+      "fundingSource": "Other"
+   },
+   {
+      "orgName": "ODK",
+      "contact_name": "Joe Thompson",
+      "email": "joe@odk.com",
+      "city": "Lisburn",
+      "lat": 54.61593192715581,
+      "lng": -5.938764313571809,
+      "jurisdiction": "Both",
+      "fundingSource": "Philanthropy"
+   }
+]
